@@ -1,0 +1,27 @@
+*{
+    margin: 0 auto;
+    width: 100%;
+}
+
+
+ul{
+    margin-bottom: 16px;
+    margin-top: 16px;
+    display: flex;
+    flex-direction: column;
+    max-width: 450px;
+}
+
+ul li{
+    list-style: none;
+    margin-bottom: 24px;
+}
+
+ul li img{
+    max-width: 450px;
+    height: 250px;
+    margin: 8px 0;
+    border-radius: 4px;
+}
+
+
